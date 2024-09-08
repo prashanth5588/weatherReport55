@@ -1,0 +1,25 @@
+
+
+.App {
+  text-align: center;
+  background-image: url("https://e0.pxfuel.com/wallpapers/176/804/desktop-wallpaper-weather-beautiful-weather.jpg");
+  background-size: cover;
+  
+  
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.heading1{
+  color: red;
+}
